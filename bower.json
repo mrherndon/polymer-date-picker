@@ -29,7 +29,6 @@
     "core-icon": "Polymer/core-icon#>=0.4.0",
     "moment-timezone": "~0.2.2"
   },
-  },
   "main": [
     "polymer-date-picker.html"
   ]
