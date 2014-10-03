@@ -4,7 +4,7 @@
   "authors": [
     "Christophe Clapp <christophe@christophe.cc>",
     "Christopher Hartmann herenow2121@gmail.com",
-    "Ray Herndon rherndon@starsacramento.org
+    "Ray Herndon rherndon@starsacramento.org"
   ],
   "description": "A Polymer interpretation of Dan Grossman's awesome bootstrap-daterangepicker (https://github.com/dangrossman/bootstrap-daterangepicker)",
   "keywords": [
